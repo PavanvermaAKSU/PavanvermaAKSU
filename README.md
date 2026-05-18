@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Pavan Kumar Verma 👋
 
-<!--
-**PavanvermaAKSU/PavanvermaAKSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | AI & Data Science  
+💻 Aspiring Software Developer | AI/ML Enthusiast  
+🚀 Passionate about building real-world web applications and AI-based projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Data Science.  
+I enjoy working on full-stack web development, AI/ML projects, dashboards, and real-world problem-solving applications.
+
+Currently, I am improving my skills in React, FastAPI, Python, MySQL, Machine Learning, and Data Science.
+
+---
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python, C, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** FastAPI, Flask
+- **Database:** MySQL
+- **AI/ML:** Machine Learning, Deep Learning, Data Science
+- **Tools:** Git, GitHub, VS Code, Docker, MySQL Workbench
+
+---
+
+## 🚀 Projects
+
+### 📊 Campus Pulse Satisfaction Dashboard
+A student feedback and satisfaction dashboard that helps analyze campus feedback using charts, filters, and visual insights.
+
+🔗 GitHub Repository:  
+https://github.com/PavanvermaAKSU/Campus-pulse-satisfaction-dashboard
+
+---
+
+### 📚 Smart Study Planner LMS
+A Learning Management System with a smart study planner that helps students manage courses, schedules, study plans, and learning progress.
+
+🔗 GitHub Repository:  
+https://github.com/PavanvermaAKSU/Smart-study-planner-LMS-
+
+---
+
+### ✍️ Online Signature Detection
+An AI-based project that detects genuine and forged signatures using movement, pressure, speed, and stroke-based signature features.
+
+---
+
+## 📈 Currently Learning
+
+- Data Science
+- Machine Learning
+- Full Stack Development
+- AI-based Web Applications
+- Cloud Deployment
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/pavan-kumar-verma-19a42127a
+- GitHub: https://github.com/PavanvermaAKSU
+- Email: vermapavan9078@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love learning new technologies and building projects that solve real-world problems.
