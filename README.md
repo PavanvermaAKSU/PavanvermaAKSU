@@ -1,7 +1,7 @@
 # Hi, I'm Pavan Kumar Verma 👋
 
 🎓 B.Tech CSE Student | AI & Data Science  
-💻 Aspiring Software Developer | AI/ML Enthusiast  
+💻 Aspiring Data Scientist & AI  Egineer | AI/ML Enthusiast  
 🚀 Passionate about building real-world web applications and AI-based projects
 
 ---
@@ -55,7 +55,7 @@ An AI-based project that detects genuine and forged signatures using movement, p
 - Machine Learning
 - Full Stack Development
 - AI-based Web Applications
-- Cloud Deployment
+
 
 ---
 
